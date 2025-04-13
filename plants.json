@@ -1,0 +1,34 @@
+{
+    "plants": [
+        {
+            "title": "Лілія",
+            "imeg": "https://florexpol.eu/19729-large_default/lilia-azjatycka-paciano.jpg",
+            "price": 100,
+            "isFavourite": true
+        },
+        {
+            "title": "Троянда",
+            "imeg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQ5Y8qdy78Ia5tnGtXGsnvhVvaEFZmMfw84RiHlLGtiwqAeF02aEzu3qMv93-EQllh9EjSkNCP9ALmQ76br90dg",
+            "price": 200,
+            "isFavourite": true
+        },
+        {
+            "title": "Дуб",
+            "imeg": "https://dusha-sada.com.ua/web//media/product/thumb/HcgpY1C4Cb1oF-B7pa5ha7gpH0XIZpahGbXGm0qMOCO4lTK0f1GOJj9L7JjduzgP.jpeg",
+            "price": 300,
+            "isFavourite": false
+        },
+        {
+            "title": "Кульбаба",
+            "imeg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_CwRfAuLhdRdz0E7WQTW9BCa8sNE6zNq0SlyNVDmZy-BYYTlsjTUGwAY2kIQ0zjLpSN3bXfG01bBE7pxZ9DcKQ",
+            "price": 130,
+            "isFavourite": false
+        },
+        {
+            "title": "Подорожник",
+            "imeg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLBG0JTh1dKheVxviB74bzxP_WfJjpnDnEY2MtFy1KzSweGMDGA7k574lzpCSwTei7CuV6kEYGo9wwM9WlTqjYmw",
+            "price": 50,
+            "isFavourite": true
+        }
+    ]
+}
